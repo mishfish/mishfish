@@ -52,9 +52,4 @@ Customer cards built automatically from Instagram Direct. Meta webhooks â†’ Go â
 
 ---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mishfish&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_rank=true" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishfish&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9" alt="langs"/>
-</p>
-
 <p align="center"><sub><code>-- exactly once is a lie, idempotency is not</code></sub></p>
